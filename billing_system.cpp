@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int ff;
+int f;
 
 class bill_sys
 {
